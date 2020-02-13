@@ -1,0 +1,21 @@
+{
+    "name": "daheda/trip-sorter",
+    "description": "Test.  trip sorter",
+    "authors": [
+        {
+            "name": "Daheda Andrianarinivo",
+            "email": "adaheda@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.18"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "TripSorter\\": "src"
+        }
+    }
+}
